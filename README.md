@@ -1,5 +1,5 @@
 # Court Counter
-Whip out your phone and go shoot some hoops.
+Whip out your Android phone and go shoot some hoops.
 
 <a href="url"><img src="/Court Counter.png" align="left" height="480" width="320" ></a>
 
